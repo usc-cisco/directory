@@ -21,6 +21,15 @@ export const projects: Project[] = [
   },
   {
     id: 2,
+    title: 'Hermes',
+    image: 'https://queue.dcism.org/opengraph-image.png',
+    creator: 'The Hermes Team',
+    description: 'An enrollment queue-ing system for DCISM.',
+    url: 'https://queue.dcism.org/',
+    creatorGithubURL: 'https://github.com/usc-cisco',
+  },
+  {
+    id: 3,
     title: 'Tambay',
     image: 'https://tambay.dcism.org/opengraph-image.png',
     creator: 'CISCO',
